@@ -36,7 +36,7 @@ export default function Carousel() {
                             <blockquote className="blockquote">
                                 <p className="pb-3">
                                     <i className="fas fa-quote-left fa-xs text-primary"></i>
-                                    <span className="lead font-italic">Many of life's failures are people who did not realize how
+                                    <span className="lead font-italic">Many of life&apos;s failures are people who did not realize how
                   close they were to success when they gave up.</span>
                                     <i className="fas fa-quote-right fa-xs text-primary"></i>
                                 </p>
