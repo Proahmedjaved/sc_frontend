@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,700&display=swap');
 body {
-    background-color: #dedede;
+    background-color: #dedede !important;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -17,17 +17,17 @@ footer {
 }
 
 #section1 {
-    background-color: rgb(212, 212, 212);
+    background-color: white;
     border-radius: 15px;
 }
 
 #section2 {
-    background-color: rgb(212, 212, 212);
+    background-color: white;
     border-radius: 15px;
 }
 
 #section3 {
-    background-color: rgb(212, 212, 212);
+    background-color: white;
     border-radius: 15px;
 }
 
